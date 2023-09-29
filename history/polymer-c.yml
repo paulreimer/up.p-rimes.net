@@ -1,7 +1,7 @@
 url: https://h2xxba6vy3.execute-api.us-west-2.amazonaws.com/dev/?channel=polymer_c&duration=5
-status: up
-code: 200
-responseTime: 671
-lastUpdated: 2023-09-29T23:04:41.789Z
+status: down
+code: 400
+responseTime: 97
+lastUpdated: 2023-09-29T23:18:39.448Z
 startTime: 2023-09-29T22:50:15.602Z
 generator: Upptime <https://github.com/upptime/upptime>
