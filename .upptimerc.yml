@@ -19,10 +19,10 @@ sites:
   - name: matrix.p-rimes.net
     url: https://matrix.p-rimes.net/_dendrite/monitor/health
   - name: Polymer_B
-    url: https://h2xxba6vy3.execute-api.us-west-2.amazonaws.com/dev/?channel=polymer_b&duration=5
+    url: https://yll91woz04.execute-api.us-west-2.amazonaws.com/polymer_b/5
     __dangerous__body_down: "-70.0 LUFS"
   - name: Polymer_C
-    url: https://h2xxba6vy3.execute-api.us-west-2.amazonaws.com/dev/?channel=polymer_c&duration=5
+    url: https://yll91woz04.execute-api.us-west-2.amazonaws.com/polymer_c/5
     __dangerous__body_down: "-70.0 LUFS"
   - name: tcp://logs.p-rimes.net:50002
     check: "tcp-ping"
