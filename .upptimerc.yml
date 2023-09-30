@@ -34,10 +34,10 @@ sites:
     port: 22
   
 status-website:
+  name: "Monitored Endpoints"
   cname: up.p-rimes.net
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   theme: dark
-  introTitle: "Monitored Endpoints"
   introMessage: ""
   navbar:
     - title: Status
