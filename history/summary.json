@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 150,
     "timeDay": 151,
-    "timeWeek": 150,
+    "timeWeek": 143,
     "timeMonth": 150,
     "timeYear": 150,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 158,
     "timeDay": 114,
-    "timeWeek": 158,
+    "timeWeek": 161,
     "timeMonth": 158,
     "timeYear": 158,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 127,
     "timeDay": 96,
-    "timeWeek": 127,
+    "timeWeek": 130,
     "timeMonth": 127,
     "timeYear": 127,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 107,
-    "timeWeek": 153,
+    "timeWeek": 159,
     "timeMonth": 153,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -84,7 +84,7 @@
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 220,
-    "timeWeek": 383,
+    "timeWeek": 397,
     "timeMonth": 383,
     "timeYear": 383,
     "dailyMinutesDown": {}
@@ -102,7 +102,7 @@
     "uptimeYear": "100.00%",
     "time": 395,
     "timeDay": 184,
-    "timeWeek": 395,
+    "timeWeek": 412,
     "timeMonth": 395,
     "timeYear": 395,
     "dailyMinutesDown": {}
@@ -120,7 +120,7 @@
     "uptimeYear": "100.00%",
     "time": 412,
     "timeDay": 92,
-    "timeWeek": 412,
+    "timeWeek": 417,
     "timeMonth": 412,
     "timeYear": 412,
     "dailyMinutesDown": {}
@@ -130,9 +130,9 @@
     "url": "https://matrix.p-rimes.net/_dendrite/monitor/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.p-rimes.net.ico",
     "slug": "matrix-p-rimes-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,7 +141,9 @@
     "timeWeek": 343,
     "timeMonth": 343,
     "timeYear": 343,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-06": 0
+    }
   },
   {
     "name": "Polymer_B",
@@ -149,14 +151,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-b",
     "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "97.15%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.22%",
-    "uptimeYear": "97.22%",
+    "uptime": "97.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "97.34%",
+    "uptimeYear": "97.34%",
     "time": 1375,
-    "timeDay": 1393,
-    "timeWeek": 1375,
+    "timeDay": 1722,
+    "timeWeek": 1408,
     "timeMonth": 1375,
     "timeYear": 1375,
     "dailyMinutesDown": {
@@ -171,14 +173,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-c",
     "status": "up",
-    "uptime": "92.49%",
-    "uptimeDay": "65.49%",
-    "uptimeWeek": "92.49%",
-    "uptimeMonth": "92.49%",
-    "uptimeYear": "92.49%",
+    "uptime": "92.82%",
+    "uptimeDay": "69.18%",
+    "uptimeWeek": "92.81%",
+    "uptimeMonth": "92.82%",
+    "uptimeYear": "92.82%",
     "time": 1110,
-    "timeDay": 1210,
-    "timeWeek": 1110,
+    "timeDay": 1123,
+    "timeWeek": 1122,
     "timeMonth": 1110,
     "timeYear": 1110,
     "dailyMinutesDown": {
@@ -201,7 +203,7 @@
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 161,
-    "timeWeek": 115,
+    "timeWeek": 114,
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {}
