@@ -130,11 +130,11 @@
     "url": "https://matrix.p-rimes.net/_dendrite/monitor/health",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.p-rimes.net.ico",
     "slug": "matrix-p-rimes-net",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.94%",
     "time": 336,
     "timeDay": 468,
@@ -142,6 +142,7 @@
     "timeMonth": 330,
     "timeYear": 336,
     "dailyMinutesDown": {
+      "2023-11-01": 3,
       "2023-10-06": 27
     }
   },
@@ -151,18 +152,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-b",
     "status": "down",
-    "uptime": "75.04%",
+    "uptime": "73.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.21%",
-    "uptimeYear": "75.04%",
+    "uptimeMonth": "71.55%",
+    "uptimeYear": "73.19%",
     "time": 1829,
     "timeDay": 1136,
     "timeWeek": 993,
     "timeMonth": 1981,
     "timeYear": 1829,
     "dailyMinutesDown": {
-      "2023-11-01": 22,
+      "2023-11-01": 1185,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -185,18 +186,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-c",
     "status": "down",
-    "uptime": "75.40%",
+    "uptime": "73.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "74.59%",
-    "uptimeYear": "75.40%",
+    "uptimeMonth": "71.94%",
+    "uptimeYear": "73.55%",
     "time": 1536,
     "timeDay": 691,
     "timeWeek": 828,
     "timeMonth": 1659,
     "timeYear": 1536,
     "dailyMinutesDown": {
-      "2023-11-01": 22,
+      "2023-11-01": 1185,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
       "2023-10-29": 1440,
@@ -219,10 +220,10 @@
     "url": "logs.p-rimes.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-logs-p-rimes-net-50002",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 107,
@@ -230,16 +231,18 @@
     "timeWeek": 118,
     "timeMonth": 105,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 1
+    }
   },
   {
     "name": "tcp://router.p-rimes.net:22",
     "url": "router.p-rimes.net",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "tcp-router-p-rimes-net-22",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -248,6 +251,8 @@
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-01": 0
+    }
   }
 ]
