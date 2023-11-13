@@ -1,7 +1,7 @@
 url: https://yll91woz04.execute-api.us-west-2.amazonaws.com/polymer_c/5
-status: down
-code: 500
-responseTime: 15080
-lastUpdated: 2023-11-13T17:20:15.173Z
+status: up
+code: 200
+responseTime: 12415
+lastUpdated: 2023-11-13T17:27:50.420Z
 startTime: 2023-09-29T22:50:15.602Z
 generator: Upptime <https://github.com/upptime/upptime>
