@@ -1,7 +1,7 @@
 url: https://matrix.p-rimes.net/_dendrite/monitor/health
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-14T04:46:31.696Z
+status: up
+code: 200
+responseTime: 626
+lastUpdated: 2023-11-14T04:54:15.723Z
 startTime: 2023-09-29T22:50:13.644Z
 generator: Upptime <https://github.com/upptime/upptime>
