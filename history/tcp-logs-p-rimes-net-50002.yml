@@ -1,7 +1,7 @@
 url: logs.p-rimes.net
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-11-30T19:18:20.958Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2023-11-30T19:24:43.690Z
 startTime: 2023-09-29T22:50:16.849Z
 generator: Upptime <https://github.com/upptime/upptime>
