@@ -1,7 +1,7 @@
 url: https://matrix.p-rimes.net/_dendrite/monitor/health
 status: up
 code: 200
-responseTime: 440
-lastUpdated: 2023-12-21T23:04:37.186Z
+responseTime: 402
+lastUpdated: 2023-12-22T23:04:29.368Z
 startTime: 2023-09-29T22:50:13.644Z
 generator: Upptime <https://github.com/upptime/upptime>
