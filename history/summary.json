@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/spriteworks.ca.ico",
     "slug": "spriteworks-ca",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
     "time": 389,
     "timeDay": 238,
     "timeWeek": 327,
     "timeMonth": 364,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2024-01-10": 1
+      "2024-01-10": 9
     }
   },
   {
@@ -96,9 +96,9 @@
     "url": "https://vistaplace.ca/strata",
     "icon": "https://icons.duckduckgo.com/ip3/vistaplace.ca.ico",
     "slug": "vistaplace-ca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 310,
     "timeMonth": 332,
     "timeYear": 356,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-10": 0
+    }
   },
   {
     "name": "www.p-rimes.net",
@@ -236,11 +238,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-c",
     "status": "up",
-    "uptime": "82.51%",
+    "uptime": "82.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "68.72%",
     "uptimeMonth": "91.79%",
-    "uptimeYear": "82.51%",
+    "uptimeYear": "82.52%",
     "time": 1848,
     "timeDay": 2288,
     "timeWeek": 1550,
