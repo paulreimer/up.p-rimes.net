@@ -58,19 +58,19 @@
     "url": "https://resume.p-rimes.net/",
     "icon": "https://icons.duckduckgo.com/ip3/resume.p-rimes.net.ico",
     "slug": "resume-p-rimes-net",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 164,
-    "timeDay": 734,
-    "timeWeek": 297,
-    "timeMonth": 193,
+    "timeDay": 560,
+    "timeWeek": 287,
+    "timeMonth": 194,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2024-01-27": 0
+      "2024-01-27": 8
     }
   },
   {
