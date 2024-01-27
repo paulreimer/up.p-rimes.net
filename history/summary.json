@@ -58,18 +58,20 @@
     "url": "https://resume.p-rimes.net/",
     "icon": "https://icons.duckduckgo.com/ip3/resume.p-rimes.net.ico",
     "slug": "resume-p-rimes-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 154,
-    "timeDay": 121,
-    "timeWeek": 147,
-    "timeMonth": 156,
-    "timeYear": 154,
-    "dailyMinutesDown": {}
+    "time": 164,
+    "timeDay": 734,
+    "timeWeek": 297,
+    "timeMonth": 193,
+    "timeYear": 164,
+    "dailyMinutesDown": {
+      "2024-01-27": 0
+    }
   },
   {
     "name": "spriteworks.ca",
