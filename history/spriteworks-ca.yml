@@ -1,7 +1,7 @@
 url: https://spriteworks.ca/
-status: up
-code: 200
-responseTime: 264
-lastUpdated: 2024-03-08T23:05:01.635Z
+status: down
+code: 502
+responseTime: 105
+lastUpdated: 2024-03-09T03:53:30.512Z
 startTime: 2023-09-29T22:50:11.752Z
 generator: Upptime <https://github.com/upptime/upptime>
