@@ -1,7 +1,7 @@
 url: https://vistaplace.ca/strata
-status: up
-code: 200
-responseTime: 202
-lastUpdated: 2024-06-22T23:04:27.754Z
+status: down
+code: 502
+responseTime: 213
+lastUpdated: 2024-06-23T15:34:53.357Z
 startTime: 2023-09-29T22:50:12.351Z
 generator: Upptime <https://github.com/upptime/upptime>
