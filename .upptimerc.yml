@@ -8,6 +8,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: "Monitored Endpoints"
   introTitle: ""
+  theme: night
   navbar:
     - title: Status
       href: /
