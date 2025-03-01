@@ -1,7 +1,37 @@
 owner: paulreimer
 repo: up.p-rimes.net
 
-sites: []
+sites:
+  - name: cdn.p-rimes.net
+    url: https://cdn.p-rimes.net/blank.gif
+  - name: dotfiles.p-rimes.net
+    url: https://dotfiles.p-rimes.net/
+  - name: research-in-progress.com
+    url: https://research-in-progress.com/
+  - name: resume.p-rimes.net
+    url: https://resume.p-rimes.net/
+  - name: spriteworks.ca
+    url: https://spriteworks.ca/
+  - name: vistaplace.ca
+    url: https://vistaplace.ca/strata
+  - name: www.p-rimes.net
+    url: https://www.p-rimes.net
+  - name: matrix.p-rimes.net
+    url: https://matrix.p-rimes.net/_dendrite/monitor/health
+  - name: Polymer_B
+    url: https://yll91woz04.execute-api.us-west-2.amazonaws.com/polymer_b/5
+    __dangerous__body_down: "-70.0 LUFS"
+  - name: Polymer_C
+    url: https://yll91woz04.execute-api.us-west-2.amazonaws.com/polymer_c/5
+    __dangerous__body_down: "-70.0 LUFS"
+  - name: tcp://logs.p-rimes.net:50002
+    check: "tcp-ping"
+    url: logs.p-rimes.net
+    port: 50002
+  - name: tcp://router.p-rimes.net:22
+    check: "tcp-ping"
+    url: router.p-rimes.net
+    port: 22
 
 status-website:
   cname: up.p-rimes.net
