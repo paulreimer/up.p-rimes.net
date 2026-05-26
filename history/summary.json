@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 348,
-    "timeDay": 102,
-    "timeWeek": 284,
-    "timeMonth": 290,
+    "timeDay": 87,
+    "timeWeek": 246,
+    "timeMonth": 281,
     "timeYear": 365,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dotfiles.p-rimes.net.ico",
     "slug": "dotfiles-p-rimes-net",
     "status": "down",
-    "uptime": "82.65%",
+    "uptime": "82.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "78.61%",
+    "uptimeYear": "78.34%",
     "time": 232,
-    "timeDay": 197,
-    "timeWeek": 227,
+    "timeDay": 236,
+    "timeWeek": 202,
     "timeMonth": 241,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -122,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/research-in-progress.com.ico",
     "slug": "research-in-progress-com",
     "status": "down",
-    "uptime": "45.75%",
+    "uptime": "45.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "33.13%",
+    "uptimeYear": "32.86%",
     "time": 408,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 583,
+    "timeYear": 587,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -392,10 +394,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 249,
-    "timeDay": 205,
-    "timeWeek": 226,
-    "timeMonth": 217,
+    "time": 248,
+    "timeDay": 110,
+    "timeWeek": 204,
+    "timeMonth": 216,
     "timeYear": 254,
     "dailyMinutesDown": {}
   },
@@ -411,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 261,
-    "timeWeek": 483,
-    "timeMonth": 470,
+    "timeDay": 274,
+    "timeWeek": 426,
+    "timeMonth": 471,
     "timeYear": 372,
     "dailyMinutesDown": {}
   },
@@ -429,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 345,
-    "timeDay": 1203,
-    "timeWeek": 514,
-    "timeMonth": 508,
+    "timeDay": 231,
+    "timeWeek": 462,
+    "timeMonth": 509,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -446,10 +448,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.73%",
-    "time": 430,
-    "timeDay": 69,
-    "timeWeek": 293,
-    "timeMonth": 367,
+    "time": 429,
+    "timeDay": 155,
+    "timeWeek": 225,
+    "timeMonth": 356,
     "timeYear": 423,
     "dailyMinutesDown": {
       "2025-06-26": 1387,
@@ -473,7 +475,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -836,8 +839,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -850,12 +852,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.71%",
-    "uptimeYear": "9.88%",
-    "time": 926,
-    "timeDay": 1974,
-    "timeWeek": 1844,
-    "timeMonth": 1721,
-    "timeYear": 947,
+    "uptimeYear": "10.15%",
+    "time": 928,
+    "timeDay": 2003,
+    "timeWeek": 1869,
+    "timeMonth": 1731,
+    "timeYear": 950,
     "dailyMinutesDown": {
       "2026-04-29": 1404,
       "2026-04-28": 37,
@@ -1186,8 +1188,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -1196,18 +1197,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-c",
     "status": "down",
-    "uptime": "32.99%",
+    "uptime": "32.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "35.07%",
-    "time": 1226,
-    "timeDay": 513,
-    "timeWeek": 489,
-    "timeMonth": 782,
+    "time": 1224,
+    "timeDay": 527,
+    "timeWeek": 500,
+    "timeMonth": 756,
     "timeYear": 1149,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1453,8 +1455,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -1474,7 +1475,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1837,8 +1839,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   },
   {
@@ -1858,7 +1859,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 46,
+      "2026-05-26": 44,
+      "2026-05-25": 1440,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -2221,8 +2223,7 @@
       "2025-05-30": 1440,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
-      "2025-05-27": 1440,
-      "2025-05-26": 1440
+      "2025-05-27": 1440
     }
   }
 ]
