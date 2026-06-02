@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 346,
-    "timeDay": 186,
-    "timeWeek": 206,
-    "timeMonth": 260,
+    "timeDay": 199,
+    "timeWeek": 222,
+    "timeMonth": 258,
     "timeYear": 365,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dotfiles.p-rimes.net.ico",
     "slug": "dotfiles-p-rimes-net",
     "status": "down",
-    "uptime": "81.38%",
+    "uptime": "81.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.69%",
+    "uptimeYear": "76.42%",
     "time": 232,
-    "timeDay": 242,
-    "timeWeek": 205,
-    "timeMonth": 221,
+    "timeDay": 267,
+    "timeWeek": 209,
+    "timeMonth": 220,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -129,18 +130,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/research-in-progress.com.ico",
     "slug": "research-in-progress-com",
     "status": "down",
-    "uptime": "45.05%",
+    "uptime": "44.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.21%",
+    "uptimeYear": "30.94%",
     "time": 408,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 610,
+    "timeYear": 614,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -407,8 +409,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 248,
-    "timeDay": 246,
-    "timeWeek": 181,
+    "timeDay": 253,
+    "timeWeek": 201,
     "timeMonth": 204,
     "timeYear": 254,
     "dailyMinutesDown": {}
@@ -425,9 +427,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 377,
-    "timeDay": 293,
-    "timeWeek": 358,
-    "timeMonth": 439,
+    "timeDay": 489,
+    "timeWeek": 389,
+    "timeMonth": 436,
     "timeYear": 373,
     "dailyMinutesDown": {}
   },
@@ -443,10 +445,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 344,
-    "timeDay": 216,
-    "timeWeek": 294,
-    "timeMonth": 476,
-    "timeYear": 348,
+    "timeDay": 395,
+    "timeWeek": 317,
+    "timeMonth": 473,
+    "timeYear": 349,
     "dailyMinutesDown": {}
   },
   {
@@ -456,14 +458,14 @@
     "slug": "www-p-rimes-net",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "5.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "85.70%",
     "uptimeMonth": "96.71%",
     "uptimeYear": "99.45%",
     "time": 429,
-    "timeDay": 603,
-    "timeWeek": 360,
-    "timeMonth": 343,
+    "timeDay": 663,
+    "timeWeek": 432,
+    "timeMonth": 348,
     "timeYear": 426,
     "dailyMinutesDown": {
       "2026-05-31": 1408,
@@ -489,7 +491,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -852,8 +855,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -866,12 +868,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "11.80%",
-    "time": 942,
-    "timeDay": 1912,
-    "timeWeek": 1960,
+    "uptimeYear": "12.07%",
+    "time": 943,
+    "timeDay": 1388,
+    "timeWeek": 1873,
     "timeMonth": 1799,
-    "timeYear": 968,
+    "timeYear": 969,
     "dailyMinutesDown": {
       "2026-04-29": 1404,
       "2026-04-28": 37,
@@ -1195,8 +1197,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -1205,18 +1206,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/yll91woz04.execute-api.us-west-2.amazonaws.com.ico",
     "slug": "polymer-c",
     "status": "down",
-    "uptime": "32.48%",
+    "uptime": "32.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "35.07%",
-    "time": 1215,
-    "timeDay": 521,
-    "timeWeek": 502,
-    "timeMonth": 657,
-    "timeYear": 1146,
+    "time": 1213,
+    "timeDay": 470,
+    "timeWeek": 494,
+    "timeMonth": 635,
+    "timeYear": 1145,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1462,8 +1464,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -1483,7 +1484,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -1846,8 +1848,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   },
   {
@@ -1867,7 +1868,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 50,
+      "2026-06-02": 51,
+      "2026-06-01": 1440,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
@@ -2230,8 +2232,7 @@
       "2025-06-06": 1440,
       "2025-06-05": 1440,
       "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 1440
+      "2025-06-03": 1440
     }
   }
 ]
